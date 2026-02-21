@@ -1,1 +1,1 @@
-<img src="Machine-Learning-Techniques.webp" alt="Redmi Phone" width="1200">
+<img src="Language_Detection_9c9de47547.png" alt="Redmi Phone" width="1200">
